@@ -1,8 +1,8 @@
-<p align="center"><img src="https://linuxiac.com/wp-content/uploads/2021/07/kali-linux-virtualbox.png" alt="kali" /> </p>
-
 <h1> Step-by-step Guide to Installing Oracle VirtualBox and Kali Linux image on Windows 10 Pro </h1>
 
-## Part I: Download and Prerequisites
+<p align="center"><img src="https://linuxiac.com/wp-content/uploads/2021/07/kali-linux-virtualbox.png" alt="kali" /> </p>
+
+## Part I: Downloads and Prerequisites
 - **Downloading VirtualBox**: Navigate to [Oracle Virtual Downloads page](https://www.virtualbox.org/wiki/Downloads) and select the VirtualBox installer
 - **Downloading Kali Linux**: Go to [Kali Linux Downloads page](https://www.kali.org/get-kali/#kali-installer-images) and select 64-bit installer .iso image
   - Kali Linux image can be a bit finicky, but be sure to select the correct installer which should be the Recommended option on Kali website. torrent and sum may download more quickly, but failed to launch on my system. Regular download for the 4.4G will take a bit of time, even hours, but is more reliable, so be patient! 
